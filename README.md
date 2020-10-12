@@ -1,2 +1,2 @@
 # Stopwatch
-A simple stopwatch !!
+A simple stopwatch made on netbeans!!
